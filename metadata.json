@@ -1,0 +1,6 @@
+{
+  "name": "ChemLab 3D - Bảng Tuần Hoàn & Phòng Thí Nghiệm Hóa Học 3D",
+  "description": "Nền tảng học tập hóa học tương tác 3D: Bảng tuần hoàn chuẩn 118 nguyên tố, phát âm tên khoa học IUPAC, mô hình nguyên tử 3D tương tác hạt nhân/electron, phòng thí nghiệm ảo với động cơ phản ứng chân thực, và hệ thống trắc nghiệm củng cố kiến thức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
